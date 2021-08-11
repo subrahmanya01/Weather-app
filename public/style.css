@@ -1,0 +1,58 @@
+body
+{
+    background-color: white;
+}
+
+#mainlog{
+  
+    font-weight: bold;
+    font-size: 60px;
+    color: green;
+}
+.container
+{
+    width:300px;
+    height:400px;
+    border:2px solid rgb(20, 97, 185);
+    margin: auto;
+    background-clip: cover;
+    border-radius: 20px;
+    -webkit-box-shadow: 0 0 15px blue;
+    box-shadow: 0 0 15px blue;
+}
+#icn
+{
+    margin-left: 42%;
+    margin-top: 40px;
+    font-weight: bold;
+    font-size: 60px;
+    color: white;
+}
+.location
+{
+    color:white;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Kavoon', cursive;
+    padding-bottom: 0;
+}
+.date_time
+{
+    text-align: center;
+    color:white;
+    font-family: 'Kavoon', cursive;
+    font-size: 10px;
+}
+.wethershow
+{
+    color:white;
+    font-family: 'Kavoon', cursive;
+    font-size: 30px;
+    text-align: center;
+}
+.min_max_wether
+{
+    text-align:center;
+    color:white;
+    font-family: 'Kavoon', cursive;
+}
