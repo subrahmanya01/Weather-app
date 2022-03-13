@@ -1,4 +1,4 @@
-# Wether-app
+# Weather-app
 
 This is the basic web application based on HTML,CSS,Javascript,Nodejs.
 
